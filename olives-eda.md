@@ -9,7 +9,6 @@ notebook: olives-eda.ipynb
 *  
 {: toc}
 
-
 ```python
 %matplotlib inline
 import numpy as np
